@@ -3,7 +3,8 @@ import './App.css';
 
 function App() {
   return (
-    <Navbar title= "My Page" about="About Us"/>
+    //<Navbar title= "My Page" about="About Us"/>
+    <Navbar />
   );
 }
 
